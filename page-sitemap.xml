@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>./index.html</loc>
+		<loc>https://mazzingo.co.uk/index.html</loc>
 		<lastmod>2025-10-03T18:40:03+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/2.png</image:loc>
@@ -29,7 +29,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./know-more-mazzingo/index.html</loc>
+		<loc>https://mazzingo.co.uk/know-more-mazzingo/index.html</loc>
 		<lastmod>2025-09-26T17:01:33+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/Commercial-Offset-Printing.jpg</image:loc>
@@ -42,7 +42,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./get-in-touch/index.html</loc>
+		<loc>https://mazzingo.co.uk/get-in-touch/index.html</loc>
 		<lastmod>2025-09-26T18:03:52+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/09/Customer-Support-Outsourcing-Department.png.webp</image:loc>
